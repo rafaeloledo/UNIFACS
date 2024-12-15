@@ -1,0 +1,4 @@
+libgirepository
+gtk3
+python-gobject
+cairo
